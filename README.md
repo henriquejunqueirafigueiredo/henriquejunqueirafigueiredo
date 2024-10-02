@@ -1,6 +1,6 @@
 👋 Olá! Eu sou Henrique, um Analista de Dados apaixonado por transformar dados em insights valiosos.  
 
-👀 Interesses: Estou sempre em busca de aprimorar minhas habilidades em análise de dados, ciêcia de dados, visualização de dados e automação de processos. Tenho um grande interesse em explorar novas ferramentas e técnicas que possam otimizar a tomada de decisões com base em dados.  
+👀 Interesses: Estou sempre em busca de aprimorar minhas habilidades em análise de dados, ciência de dados, visualização de dados e automação de processos. Tenho um grande interesse em explorar novas ferramentas e técnicas que possam otimizar a tomada de decisões com base em dados.  
 
 🌱 Atualmente, estou aprendendo sobre Machine Learning e técnicas avançadas de análise preditiva para aprofundar minha capacidade de extrair valor de grandes volumes de dados.  
 
