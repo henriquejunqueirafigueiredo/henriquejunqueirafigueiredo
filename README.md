@@ -11,5 +11,4 @@ eficientes e baseados em dados.
 
 😄 Pronomes: Ele/dele.  
 
-⚡ Curiosidade: Em meu tempo livre, gosto de explorar novas tecnologias e desafios de programação, me manter atualizado sobre as tendências do mercado de dados.Além de no tempo livre 
-sou apaixonado por futebol e video game!
+⚡ Curiosidade: Em meu tempo livre, gosto de explorar novas tecnologias e desafios de programação, me manter atualizado sobre as tendências do mercado de dados, além de se apaixonado por futebol e video game!
