@@ -4,7 +4,7 @@
 
 🌱 Atualmente, estou aprendendo sobre Machine Learning e técnicas avançadas de análise preditiva para aprofundar minha capacidade de extrair valor de grandes volumes de dados.  
 
-💞️ Buscando colaborar em projetos que envolvam Business Intelligence, análise de dados, dashboards interativos e soluções de automação que tornem processos mais 
+💞️ Buscando colaborar em projetos que envolvam Business Intelligence, ciência de dados, análise de dados, dashboards interativos e soluções de automação que tornem processos mais 
 eficientes e baseados em dados.  
 
 📫 Como me contatar: Você pode me encontrar aqui no GitHub ou entrar em contato pelo meu LinkedIn: https://www.linkedin.com/in/henrique-junqueira-0326971b7/.  
