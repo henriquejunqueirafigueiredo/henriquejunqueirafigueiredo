@@ -9,6 +9,4 @@ eficientes e baseados em dados.
 
 📫 Como me contatar: Você pode me encontrar aqui no GitHub ou entrar em contato pelo meu LinkedIn: https://www.linkedin.com/in/henrique-junqueira-0326971b7/.  
 
-😄 Pronomes: Ele/dele.  
-
 ⚡ Curiosidade: Em meu tempo livre, gosto de explorar novas tecnologias e desafios de programação, me manter atualizado sobre as tendências do mercado de dados, além de ser apaixonado por futebol e video game!
